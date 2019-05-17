@@ -1,0 +1,9 @@
+alias aliases="sudo nano ~/.bash_aliases"
+alias myip="ip addr show"
+
+#alias pacsearch="pacman -Fs"
+alias pacinstall="pacman -S"
+
+alias pamsearch="pamac search"
+alias paminstall="pamac install"
+
