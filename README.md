@@ -20,7 +20,7 @@ When this is done, you can apply the changes by executing
 `exec /bin/bash -l` for bash or `exec /bin/zsh -l` for zsh.
 
 ## options  
-There are two options for the bash prompt. One with emojis and the other made of blocks. The file `.bash_prompt.blocks` file will look like this: 
+There are two options for the bash prompt. One with emojis and the other made of blocks. The file `.bash_prompt.blocks` file will make prompt look like this: 
 
 ![Blocks prompt screeshot](https://raw.githubusercontent.com/keystroke3/bashconfigs/master/screenshots/blocks.png "blocks prompt")
 
@@ -34,7 +34,7 @@ If you wish to have the blocks, you can run:
 
 `mv ~/.bash_prompt.emoji .bash_prompt`  
 
-Bloks:
+Emoji:
 
 ![Blocks prompt screeshot](https://raw.githubusercontent.com/keystroke3/bashconfigs/master/screenshots/emoji.png "blocks prompt")
 
